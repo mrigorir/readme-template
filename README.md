@@ -43,17 +43,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Marco Parra**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [github](https://github.com/mrigorir)
+- Twitter: [twitter](https://twitter.com/marcoparra311)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-alonso-parra/)
 
 ## 🤝 Contributing
 
